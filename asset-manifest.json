@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/React-cryptocase/static/css/main.f72883ab.css",
-    "main.js": "/React-cryptocase/static/js/main.d09fc827.js",
+    "main.js": "/React-cryptocase/static/js/main.850d0f64.js",
     "index.html": "/React-cryptocase/index.html",
     "main.f72883ab.css.map": "/React-cryptocase/static/css/main.f72883ab.css.map",
-    "main.d09fc827.js.map": "/React-cryptocase/static/js/main.d09fc827.js.map"
+    "main.850d0f64.js.map": "/React-cryptocase/static/js/main.850d0f64.js.map"
   },
   "entrypoints": [
     "static/css/main.f72883ab.css",
-    "static/js/main.d09fc827.js"
+    "static/js/main.850d0f64.js"
   ]
 }
