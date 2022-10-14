@@ -1,3 +1,3 @@
 # React Crypto Case
 
-https://github.com/707404D/React-cryptocase.git
+https://707404d.github.io/React-cryptocase/
